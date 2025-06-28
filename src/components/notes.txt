@@ -1,0 +1,3 @@
+useeffect is a hook that runs in between the component life cycle 
+when a component mounts 
+updates or unmounts  
